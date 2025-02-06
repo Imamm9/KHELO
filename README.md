@@ -1,18 +1,17 @@
-## Getting Started
+Khelo is a Java-based stadium ticket management system designed to streamline the process of booking, managing, and verifying tickets for sports events. The system ensures a seamless experience for both organizers and attendees by providing an intuitive interface for ticket reservations, cancellations, and seat selection.
+Features 🚀
+User Registration & Authentication 🔐
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Secure login and registration system for users.
 
-## Folder Structure
+Ticket Booking & Cancellation 🎫
 
-The workspace contains two folders by default, where:
+Users can book, view, and cancel tickets with ease.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Seat Selection 🏟️
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Interactive seat selection to choose preferred seats.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Payment Integration 💳
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Supports multiple payment methods for seamless transactions.
