@@ -61,10 +61,6 @@ Contributions are welcome! Please follow these steps:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is free to use. Credits would be appreciated.
 
-## Contact
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
-```
 
-You can copy this content into a `README.md` file in your GitHub repository to provide a comprehensive overview of your project.
